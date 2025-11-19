@@ -63,7 +63,7 @@ I work with the following technologies and tools:
 # 🌐 **Connect With Me**
 
 <p align="center">
-<a href="www.linkedin.com/in/shrijana-thapa-magar-763b911ba">
+<a href="https://www.linkedin.com/in/shrijana-thapa-magar-763b911ba/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40">
 </a>
 &nbsp;
