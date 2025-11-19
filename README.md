@@ -60,15 +60,6 @@ I work with the following technologies and tools:
 
 ---
 
-# 🎯 **What I'm Focusing On**
-
-- Mastering Angular architecture  
-- Improving Unit Testing & best practices  
-- Building real-world dashboard & admin templates  
-- Strengthening RxJS patterns and advanced operators
-
----
-
 # 🌐 **Connect With Me**
 
 <p align="center">
@@ -76,7 +67,7 @@ I work with the following technologies and tools:
   <img src="https://skillicons.dev/icons?i=linkedin" height="40">
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/shrijana-thapa">
   <img src="https://skillicons.dev/icons?i=github" height="40">
 </a>
 </p>
